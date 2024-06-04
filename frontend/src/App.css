@@ -1,0 +1,71 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+form label {
+  margin-top: 10px;
+}
+
+form input,
+form select,
+form button {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+form button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: darkgreen;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+ul li:first-child {
+  font-weight: bold;
+}
+
+.simulation {
+  margin-top: 20px;
+}
+
+.simulation select,
+.simulation button {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.simulation button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.simulation button:hover {
+  background-color: darkgreen;
+}
